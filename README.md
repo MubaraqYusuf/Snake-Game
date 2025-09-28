@@ -99,9 +99,9 @@ This project allows you to **customize** various aspects of the game:
 
 ---
 
-## 📸 Screenshots (Optional)  
+## 📸 Screenshots (Optional) 
 
-_Add screenshots or gameplay GIFs here_  
+"C:\Users\olash\Pictures\Screenshots\Screenshot 2025-09-28 143241.png"
 
 ---
 
