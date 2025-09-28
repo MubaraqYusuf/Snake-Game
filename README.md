@@ -99,7 +99,7 @@ This project allows you to **customize** various aspects of the game:
 
 ---
 
-## 📸 Screenshots (Optional) 
+## 📸 Screenshots
 
 <img width="581" height="586" alt="Screenshot 2025-09-28 143241" src="https://github.com/user-attachments/assets/5058a9df-4f80-4a56-a3e7-188b034f141f" />
 <img width="577" height="591" alt="Screenshot 2025-09-28 144212" src="https://github.com/user-attachments/assets/3e58e5c7-81da-4340-a9be-a08751af474b" />
