@@ -78,4 +78,4 @@ This project is for educational and personal use. You may modify and distribute 
 
 ## 👨‍💻 Author
 
-Developed by [Your Name]
+Developed by [sunshine_wrlld]
